@@ -96,3 +96,9 @@ button:hover{
 .in.error input{
     border-color:rgb(255, 72, 0);
 }
+
+@media only screen and (max-width: 767px) {
+  .fullfrom {
+    width: 20rem;
+  }
+}
